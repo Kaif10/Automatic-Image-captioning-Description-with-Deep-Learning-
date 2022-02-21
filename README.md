@@ -2,6 +2,8 @@
 
 ![](https://miro.medium.com/max/1400/1*UOThCj27n-ZnGM5BOrTrmg.jpeg)
 
+
+
 ## Building the model
 Coming to the main model, image captioning architecture consists of three models:
 
@@ -10,6 +12,7 @@ A TransformerEncoder: The extracted image features are then passed to a Transfor
              based encoder that generates a new representation of the inputs
 A TransformerDecoder: This model takes the encoder output and the text data
              (sequences) as inputs and tries to learn to generate the caption.
+
 
 
 ### Short summary of model
