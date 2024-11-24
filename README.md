@@ -1,4 +1,4 @@
-# Automatic-Image-captioning-Description-with-Deep-Learning-
+# Automatic Image captioning with Auto-Encoders
 
 ![](https://miro.medium.com/max/1400/1*UOThCj27n-ZnGM5BOrTrmg.jpeg)
 
